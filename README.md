@@ -5,4 +5,6 @@ The code can be run directly on Google Colab.
 
 The code uses open-ai api, which is paid and has to be changed with a personal api-key that can be obttained after registering in the opani website.
 
-The final result will have a input dialogue box which can be used to input the source coe to be checked.
+The final result will have a input dialogue box which can be used to input the source code to be checked.
+
+The other datsets mentioned in the URL are open source and can be downloaded from the respective URL
